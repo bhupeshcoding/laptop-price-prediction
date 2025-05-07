@@ -1,4 +1,4 @@
-# 'Processor_Speed', 'RAM_Size', 'Storage_Capacity'
+
 # python3 -m venv venv
 # source venv/bin/activate
 
@@ -37,5 +37,3 @@ if predition:
 else:
   st.write("Please use button to predict the price of the laptop.")
 
-# from google.colab import files
-# files.download('rf_model.pkl') .put this when you download
